@@ -30,7 +30,7 @@ const questions = [
     "status": null
   },
   {
-    "question": "রাষ্ট্রপতির পদত্যাগের জন্য সর্বনিম্ন বয়স কত?",
+    "question": "রাষ্ট্রপতির হওয়ার জন্য সর্বনিম্ন বয়স কত?",
     "options": ["35 বছর", "30 বছর", "25 বছর", "65 বছর"],
     "answer": "35 বছর",
     "userAnswer": null,
@@ -739,3 +739,4 @@ function backToSummaryScreen() {
     detailedAnswersContainer.style.display = 'none'; // Hide detailed view
     resultSummary.style.display = 'block'; // Show summary
 }
+
